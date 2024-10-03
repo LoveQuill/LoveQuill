@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Quill</h1>
 <h3 align="center">Software developer | Javascript |Typescript | React | Node |</h3>
 
-- 🔭 Currently working on [https://www.projectserum.com/](https://www.projectserum.com/)
+- 🔭 Currently working onhttps://chatgpt.com/share/66fee976-4ec0-800d-a5f6-2506a23a61be
+- [https://www.projectserum.com/](https://www.projectserum.com/)
 
 - 📫 Reach me at **Quill#1010 via Discord**
 
